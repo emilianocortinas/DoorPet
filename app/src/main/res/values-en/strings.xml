@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoorPet</string>
+    <string name="btn_iniciar_sesion">Login</string>
+    <string name ="tv_login">Login</string>
+    <string name ="tv_bienvenido">Welcome!</string>
+    <string name ="tv_correo">Email</string>
+    <string name="tv_contrasena">Password</string>
+    <string name="tv_registro">Don\'t have account? click here for register</string>
+    <string name="btn_videotuto">Demostration</string>
+    <string name="tv_inicio">In this application you can make use of your smart door for your pet, you will have to connect your mobile device to the Bluetooth door so that later you can use the functions of opening and closing it for greater security, in the lower menu you will find the sections that you can use To make use of them you will only have to click where the padlock indicates.</string>
+    <string name="btn_open">Open</string>
+    <string name="tv_poweron">Click on open and wait a few seconds for the lock to change color.</string>
+    <string name="tv_statuson">Door status:</string>
+    <string name="tv_statuson2">Door status: Opening door</string>
+    <string name="tv_satuson3">Door status: Open</string>
+    <string name="tv_poweroff">Click on close and wait a few seconds for the lock to change color.</string>
+    <string name="btn_close">Close</string>
+    <string name="tv_statusoff">Door status: Closing door</string>
+    <string name="tv_statusoff2">Door status: Closed</string>
+    <string name="tv_registro2">Register</string>
+    <string name="tv_confcontrasena">Confirm password</string>
+    <string name="htn_mail"> example@mail.com</string>
+    <string name="btn_registrarse_sesion">Register</string>
+    <string name="tv_bluetooth">Establishing Bluetooth Connection</string>
+    <string name="tv_imain">Instructions:</string>
+    <string name="tv_i1">1. You will find yourself on the home screen, you can use the lower menu to move between the functions of the application</string>
+    <string name="tv_i2">2. To use the application and the door, connect your mobile device to the door\'s blutooth to make use of its functions.</string>
+    <string name="tv_i3">3. Once connected to bluetooth you can use the open and close function.</string>
+    <string name="tv_i4">4. In the open section you will have to click on the button to operate and open the door, in a few seconds the color of the padlock will change color indicating that the door was opened.</string>
+    <string name="tv_i5">5. In the closing section you will have to click on the button called close in order to make the door work so that it closes automatically and locks, wait a few seconds for the color of the lock to change that will indicate that the door was closed correctly.</string>
+    <string name="t_closedoor">Door is closed.</string>
+    <string name="t_opendoor">Door is opened</string>
+    <string name="btn_conblue">Manual Connection</string>
+    <string name="t_home">You already in home</string>
+    <string name="t_bluetooth">You already in configuration bluetooth</string>
+    <string name="t_pon">You already in open screen</string>
+    <string name="t_poff">You already in closing screen</string>
+    <string name="L1">Would you like close the session?</string>
+    <string name="L2">Close session</string>
+    <string name="L3">Cancel</string>
+    <string name="L4">▒▒▒▒▒▒DoorPet▒▒▒▒▒</string>
+    <string name="btn_historial">History</string>
+    <string name="estado_historial">Opened</string>
+    <string name="estado_historial2">Closed</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300305677290",
+    "firebase_url": "https://doorpet-b6dae.firebaseio.com",
+    "project_id": "doorpet-b6dae",
+    "storage_bucket": "doorpet-b6dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300305677290:android:216a1512043b466d1f9093",
+        "android_client_info": {
+          "package_name": "com.example.doorpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300305677290-4h76f5ubi8mjt1or9p6bk3agqdnlaff3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrJ-FHS7Ks3tEUBVQb1sDTH4pC2Yvj8MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300305677290-4h76f5ubi8mjt1or9p6bk3agqdnlaff3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

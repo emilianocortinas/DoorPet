@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/usuario"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/background_dark"
+        android:layout_height="wrap_content"
+        android:text="mensaje"
+        android:layout_marginTop="20px">
+    </TextView>
+
+    <TextView
+        android:id="@+id/estado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/background_dark"
+        android:text="estado"></TextView>
+
+    <TextView
+        android:id="@+id/fecha"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/background_dark"
+        android:layout_height="wrap_content"
+        android:text="fecha"
+        android:layout_marginBottom="20px"></TextView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@android:color/background_dark"
+        ></View>
+</LinearLayout>

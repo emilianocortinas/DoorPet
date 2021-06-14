@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">DoorPet</string>
+
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+    <string name="btn_registrarse_sesion">Registrarse</string>
+    <string name="title_activity_home">home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_login">Inicia Sesion</string>
+    <string name="tv_bienvenido">Bienvenido!</string>
+    <string name="tv_correo">Correo</string>
+    <string name="tv_contrasena">Contraseña</string>
+    <string name="tv_registro">¿No tienes cuenta? da click aqui registrate</string>
+    <string name="btn_videotuto">Demostración</string>
+    <string name="tv_inicio">En esta apliacion podras hacer uso de tu puerta inteligente para tu mascota, tendras que conectar tu dispositivo movil al Bluetooth de puerta para que poseriormente puedas usar las funciones de abrir y cerrarla para mayor seguridad, en el menu de inferior encontraras las secciones que podras utilizar para hacer uso de ellas solo tendras que dar click donde te indique el candado.</string>
+    <string name="btn_open">Abrir</string>
+    <string name="tv_poweron">Da click en abrir y espera unos segundos hasta que el candado cambie de color.</string>
+    <string name="tv_statuson">Estado puerta:</string>
+    <string name="tv_statuson2">Estado puerta: Abriendo puerta</string>
+    <string name="tv_satuson3">Estado puerta: Abierta</string>
+    <string name="tv_poweroff">Da click en cerrar y espera unos segundos hasta que el candado cambie de color.</string>
+    <string name="btn_close">Cerrar</string>
+    <string name="tv_statusoff">Estado puerta: Cerrando puerta</string>
+    <string name="tv_statusoff2">Estado puerta: Cerrada</string>
+    <string name="tv_registro2">Registro</string>
+    <string name="tv_confcontrasena">Confirmar contraseña</string>
+    <string name="htn_mail"> ejemplo@correo.com</string>
+    <string name="btnregistrarse">Registrarse</string>
+    <string name="tv_bluetooth">Estableciando Conexion Bluetooth</string>
+    <string name="tv_imain">Instrucciones:</string>
+    <string name="tv_i1">1. Te encontraras en la pantalla de incio, puedes usar el menu inferior para moverte entre las funciones de la aplicacion</string>
+    <string name="tv_i2">2. Para hacer uso de la aplicacion y la puerta, conecta tu dispositivo movil al blutooth de la puerta para asi hacer uso de sus funciones.</string>
+    <string name="tv_i3">3. Una vez ya conectado al bluetooth puedes hacer uso de la funcion abrir y cerrar.</string>
+    <string name="tv_i4">4. En la seccion de abrir tendras que dar clic en el boton para accionar y abrir la puerta, en unos cuantos segundos el color del candado cambiara de color indicando que la puerta fue abierta.</string>
+    <string name="tv_i5">5. En la seccion de cerrar tendras que dar clic en el boton llamado cerrar para asi poder hacer funcionar la puerta y que esta se cierre automaticamete y se bloquee, espera unos segundos a que cambie el color del candando que indicara que la puerta fue cerrada correctamente.</string>
+    <string name="t_closedoor">La puerta esta cerrada.</string>
+    <string name="t_opendoor">La puerta esta abierta</string>
+    <string name="btn_conblue">Conexion manual</string>
+    <string name="t_home">Estas en inicio</string>
+    <string name="t_bluetooth">Estas en configuracion de bluetooth.</string>
+    <string name="t_pon">"Estas en el aparatado de apertura.</string>
+    <string name="t_poff">Estas en el aparatado de cierre.</string>
+    <string name="L1">¿Desea cerrar sesion?</string>
+    <string name="L2">Cerrar sesion</string>
+    <string name="L3">Cancelar</string>
+    <string name="L4">▒▒▒▒▒▒DoorPet▒▒▒▒▒</string>
+    <string name="btn_historial">Historial</string>
+    <string name="estado_historial">Abierto</string>
+    <string name="estado_historial2">Cerrado</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Abrir Puerta</string>
+    <string name="menu_slideshow">Cerrar puerta</string>
+    <string name="menu_tools">Bluetooth</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_on">Abrir puerta</string>
+    <string name="menu_off">Cerrar puerta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
